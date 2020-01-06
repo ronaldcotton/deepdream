@@ -1,6 +1,6 @@
 # DeepDream
 
-This is an implementation of DeepDream from the Hackernoon article [Deep Dream with TensorFlow: A Practical guide to build your first Deep Dream Experience](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479).
+This is direct DeepDream implementation from the Hackernoon article [Deep Dream with TensorFlow: A Practical guide to build your first Deep Dream Experience](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479) by Magnus Erik Hvass Pedersen.  This is the code from his [Tensorflow Tutorial #14 - Deepdream](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb) Jupyter Notebook.
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ the resulting file is placed in img/output.jpg.
 ## Example
 
 ![Lucas van Uffel (died 1637) - Preprocessing](img/input.jpg)
-![Lucas van Uffel (died 1637) - PostProcessing](img.output.jpg)
+![Lucas van Uffel (died 1637) - PostProcessing](img/output.jpg)
 
 ## Support
 
@@ -57,6 +57,8 @@ Jypiter Notebook: [Tensorflow Tutorial #14 - Deepdream](https://github.com/Hvass
 ## References
 Image - Public Domain from The Met's Open Access Artwork - [Lucas van Uffel (died 1637)](https://www.metmuseum.org/art/collection/search/436253) _- scaled down for increased speed_
 
-Jypiter Notebook: [Tensorflow Tutorial #14 - Deepdream](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb)
+Jupyter Notebook: [Tensorflow Tutorial #14 - Deepdream](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb)
 
 Hackernoon Article: [Deep Dream with TensorFlow: A Practical guide to build your first Deep Dream Experience](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479).
+
+[Magnus Erik Hvass Pedersen](http://www.hvass-labs.org/)
