@@ -1,0 +1,5 @@
+# download py will download the inception5h model
+/__pycache__
+/__pycache__/*
+/inception/
+/inception/*
